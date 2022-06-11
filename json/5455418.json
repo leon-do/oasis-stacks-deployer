@@ -1,0 +1,16 @@
+{
+  "name": "Oasis Stack #5455418",
+  "description": "Stack NFTs on Oasis Network",
+  "image": "https://github.com/oasis-stack/stack/blob/main/img/5455418.png?raw=true",
+  "edition": 1,
+  "attributes": [
+    {
+      "trait_type": "id",
+      "value": 5455418
+    },
+    {
+      "trait_type": "hex",
+      "value": "#533e3a"
+    }
+  ]
+}
